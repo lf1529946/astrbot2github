@@ -70,4 +70,4 @@
 
 ---
 
-希望这个 `astrbot2github` 项目能帮助你顺畅地使用 AstrBot 插件市场！如果遇到问题，欢迎提出 Issue。
+希望这个 `astrbot2github` 项目能帮助你顺畅地使用 AstrBot 插件市场！如果遇到问题，欢迎提出 Issue。test
